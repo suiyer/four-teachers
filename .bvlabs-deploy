@@ -1,0 +1,3 @@
+S3_BUCKET=suharsh-tutorial
+STAGING_HOST=labsbp-suharsh-tutorial.aws.bazaarvoice.com
+CHECK_UNCOMMITED_CHANGES=true
